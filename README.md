@@ -147,11 +147,17 @@ GEMINI_API_KEY=your_gemini_api_key_here
 
 ---
 
-## Screenshots
+## 🚀 Live Demo
 
-*(Placeholder sections - Add images of the beautiful Dashboard, Weekly Timetable, Task Checklist, and AI Spaced Repetition Planner here!)*
+🌐 **Try the App: 
+https://smartstudy-ai-d5xzakzhngwucqn7ufp66x.streamlit.app/
+
+Or make it a button:
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=streamlit)](https://smartstudy-ai-d5xzakzhngwucqn7ufp66x.streamlit.app/)
 
 ---
+
 
 ## Future Enhancements
 
